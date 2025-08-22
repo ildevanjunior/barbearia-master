@@ -1,3 +1,5 @@
+<img width="1834" height="898" alt="image" src="https://github.com/user-attachments/assets/c8553e19-7a68-4f7c-9ff7-0de776d99119" />
+
 # West Side Barbearia
 
 Este projeto é um trabalho de faculdade e consiste em um site fictício para uma barbearia chamada **West Side**.
@@ -31,4 +33,4 @@ O site foi desenvolvido para simular a presença online de uma barbearia, aprese
 - [Meu LinkedIn](https://www.linkedin.com/feed/)
 
 ---
-<img width="1834" height="898" alt="image" src="https://github.com/user-attachments/assets/c8553e19-7a68-4f7c-9ff7-0de776d99119" />
+
